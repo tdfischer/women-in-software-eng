@@ -1162,3 +1162,8 @@
 	num_female_eng: 3
 	num_eng: 107
 	last_updated: 2015-08-10
+[othermachineco]
+  company: Other Machine Co.
+  num_female_eng: 12
+  num_eng: 23
+  last_updated: 2015-08-13
